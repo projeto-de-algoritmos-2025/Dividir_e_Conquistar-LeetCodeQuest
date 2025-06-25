@@ -21,7 +21,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | Questão | Nome                                                                                 | Dificuldade |
 |---------|--------------------------------------------------------------------------------------|-------------|
 |     |         | Média       |
-|     |       | Difícil       |
+|  493   |  [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)     | Difícil       |
 |    |         | Difícil       |
 |     |        | Média      |
 
@@ -31,7 +31,9 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
 
+*Questão 493 - Reverse Pairs*
 
+![Questão 493 - Reverse Pairs](DividireConquistar/Questao_493/LC493.png)
 
 ## Instalação 
 **Linguagem**: Python, C <br>
