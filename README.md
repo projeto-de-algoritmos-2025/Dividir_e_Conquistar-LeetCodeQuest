@@ -20,7 +20,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 | Questão | Nome                                                                                 | Dificuldade |
 |---------|--------------------------------------------------------------------------------------|-------------|
-|     |         | Média       |
+|  04   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)      | Difícil       |
 |  493   |  [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)     | Difícil       |
 |    |         | Difícil       |
 |     |        | Média      |
@@ -30,6 +30,10 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 ## Screenshots
 
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
+
+*Questão 04 - Median of Two Sorted Arrays*
+
+![Questão 04 - Median of Two Sorted Arrays](DividireConquistar/Questao_04/LC04.png)
 
 *Questão 493 - Reverse Pairs*
 
