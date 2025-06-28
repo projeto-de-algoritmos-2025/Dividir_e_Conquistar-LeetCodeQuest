@@ -30,6 +30,8 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 ### Link para o vídeo de apresentação
 
+https://unbbr.sharepoint.com/:v:/s/PA790/EfFbz2kodMhOm0Y0DeKzccQBgwHqgJAyU1rb9hPkj4WxHw?e=Q5EKEN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Screenshots
 
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
